@@ -11,7 +11,7 @@
 
 ## Демо
 
-[Переглянути демо на Vercel](https://your-vercel-demo-url.vercel.app/)
+[Переглянути демо на Vercel](https://hw38-react-app.vercel.app/)
 
 ## Встановлення та запуск
 
